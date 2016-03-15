@@ -1,0 +1,12 @@
+dhID,chiID,unique_id,CandName,party,precinctsreporting,votecount,precinctstotal,totalvotes,precinctsreportingpct,votecount_dupage,votepct,totalvotes_dupage,precinctsreportingpct_kane,votecount_kane,votepct_kane,totalvotes_kane,precinctsreportingpct_lake,votecount_lake,votepct_lake,totalvotes_lake,precinctsreportingpct_mch,votecount_mch,votepct_mch,totalvotes_mch,precinctsreportingpct_will,votecount_will,votepct_will,totalvotes_will,precinctsreportingpct_chi,votecount_chi,votepct_chi,totalvotes_chi,precinctsreportingpct_statewide,votecount_statewide,votepct_statewide,totalvotes_statewide
+1,0010001,polid-1746,Hillary Clinton,Dem,0,0,3668,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,1.0,989.0,0.18982725527831093,5210.0,0.0,0,0.0,0
+1,0010006,polid-1445,Bernie Sanders,Dem,0,0,3668,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,1.0,802.0,0.15393474088291748,5210.0,0.0,0,0.0,0
+2,0163003,polid-8639,Donald Trump,GOP,0,0,3668,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,1.0,867.0,0.2630461165048544,3296.0,0.0,0,0.0,0
+2,0163004,polid-61815,Ted Cruz,GOP,0,0,3668,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,1.0,867.0,0.2630461165048544,3296.0,0.0,0,0.0,0
+2,0163005,polid-53044,Marco Rubio,GOP,0,0,3668,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,,,0.0,0,0.0,0
+2,0163010,polid-36679,John Kasich,GOP,0,0,3668,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,,,,,0.0,0,0.0,0
+22,0011002,polid-51631,Tammy Duckworth,Dem,0,0,3668,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,1.0,2863.0,0.13665871121718376,20950.0,0.0,0,0.0,0
+22,0011001,polid-64570,Andrea Zopp,Dem,0,0,3668,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,1.0,3892.0,0.18577565632458234,20950.0,0.0,0,0.0,0
+22,0011003,polid-64571,Napoleon Harris,Dem,0,0,3668,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,1.0,2223.0,0.10610978520286396,20950.0,0.0,0,0.0,0
+23,0164002,polid-1277,Mark Kirk,GOP,0,0,3668,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,1.0,568.0,0.36835278858625164,1542.0,0.0,0,0.0,0
+23,0164001,polid-64572,James Marter,GOP,0,0,3668,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,1.0,974.0,0.6316472114137484,1542.0,0.0,0,0.0,0
