@@ -1,0 +1,7 @@
+dhID,chiID,unique_id,CandName,party,precinctsreportingpct,votepct,precinctsreportingpct_Ohio,votepct_Ohio,precinctsreportingpct_NC,votepct_NC,precinctsreportingpct_Missouri,votepct_Missouri,precinctsreportingpct_Florida,votepct_Florida
+1,0010001,polid-1746,Hillary Clinton,Dem,98.69,0.503533,99.55,0.564685,100.0,0.545821,99.93,0.496108,99.97,0.644567
+1,0010006,polid-1445,Bernie Sanders,Dem,98.69,0.488198,99.55,0.427585,100.0,0.407678,99.93,0.493663,99.97,0.33257
+2,0163003,polid-8639,Donald Trump,GOP,98.69,0.388794,99.55,0.356651,100.0,0.402366,99.93,0.408309,99.97,0.457535
+2,0163004,polid-61815,Ted Cruz,GOP,98.69,0.304705,99.55,0.131015,100.0,0.367689,99.93,0.406464,99.97,0.171284
+2,0163005,polid-53044,Marco Rubio,GOP,98.69,0.085348,99.55,0.029068,100.0,0.077166,99.93,0.060917,99.97,0.270232
+2,0163010,polid-36679,John Kasich,GOP,98.69,0.196501,99.55,0.467843,100.0,0.126734,99.93,0.101019,99.97,0.067658
